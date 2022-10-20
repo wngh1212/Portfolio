@@ -1,3 +1,5 @@
 # React
-현재 - div 하나의창에서 3개로 페이지를 나눈 상태 aos로 메세지 띄우기<br><br>
-추후 - div의 하나당 fullpage.js를 이용하여 사용자에게 있어서 편안한 페이지 제공
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/88926634/197079184-94097d59-e6b1-4ba7-bd4c-134f6d1c47f6.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/88926634/197079250-27122179-8d95-47cc-90d3-8dd42c220e43.png">
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/88926634/197079527-fe7588ba-8668-401b-8418-1ccdeba8dd18.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/88926634/197079605-97942ee4-f05b-4929-9d2a-f90d63482ef7.png">
